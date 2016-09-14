@@ -12,11 +12,20 @@
   "dependencies": {
     "express": "^4.14.0",
     "serialport": "^4.0.1",
+    "socket.io": "^1.4.8",
     "usb": "^1.2.0"
   },
   "devDependencies": {},
   "keywords": [
     "waterrower",
     "learning"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eglrd/eWR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eglrd/eWR/issues"
+  },
+  "homepage": "https://github.com/eglrd/eWR#readme"
 }
