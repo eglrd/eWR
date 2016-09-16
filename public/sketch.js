@@ -15,9 +15,9 @@ function setup() {
 
 }
 
-function mousePressed(){
-  socket.emit('click', mouseX+" "+mouseY);
-}
+// function mousePressed(){
+//   socket.emit('click', mouseX+" "+mouseY);
+// }
 
 
 
