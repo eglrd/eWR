@@ -20,7 +20,6 @@ function newConnection(socket){
 
 }
 
-<<<<<<< HEAD
 var readWaterrower = function() {
   console.log();
   // console.log("Stroke Rate ....." + waterrower.readStrokeCount());  // [ - ]
@@ -29,10 +28,9 @@ var readWaterrower = function() {
   // console.log("Distance... ....." + waterrower.readDistance());     // [ m ]
   console.log("Watts ..........." + waterrower.readWatts());    // [ bpm ]
   console.log("Heart Rate ......" + waterrower.readHeartRate());    // [ bpm ]
-=======
+
 // no need for that it seems... close occur from clientside
 // io.sockets.once('disconnect', closeConnection);
->>>>>>> 52d23779ef3da441bf629e98f9bab564f79f352f
 
 // function closeConnection(socket){
 //   socket.close();
