@@ -3,6 +3,8 @@ var waterrower = require("Waterrower");
 var express = require('express');
 var socket = require('socket.io');
 
+var fakeDistance = 0;
+
 // start webserver and set default directory
 var app = express();
 var server = app.listen(3000);
@@ -20,16 +22,28 @@ function newConnection(socket){
   // start to emit to inbound socket
   setInterval(function(){
       if (io.sockets.connected[socket.id]) {
-          io.sockets.connected[socket.id].emit('clac', 'clac' + socket.id);
+
+          // faking rower data
+          var data ={
+            strokeRate: Math.round(Math.random()*30),
+            totalSpeed: Math.round(Math.random()*1.5),
+            averageSpeed: Math.round(Math.random()*2),
+            distance: fakeDistance,
+            watts: Math.round(Math.random()*200),
+            heartRate: Math.round(Math.random()*185),
+          }
+
+          fakeDistance+=1;
+
+          io.sockets.connected[socket.id].emit('WR', data);
       };
-    }, 1000);
+    }, 500);
 
 
   socket.on('disconnect', function(){
     console.log('user disconnected');
   });
 }
-
 
 
 // var readWaterrower = function() {
