@@ -16,18 +16,31 @@ io.sockets.on('connection', newConnection);
 function newConnection(socket){
   console.log('new connection id=' + socket.id);
   console.log('amount of total connections' + io.engine.clientsCount);
-  // waterrower stuff
 
+  socket.on('click', function(msg){
+    console.log('user clicked : ' + msg);
+    if (io.sockets.connected[socket.id]) {
+    io.sockets.connected[socket.id].emit('clac', 'clac' + socket.id);
+  }
+
+  });
+
+
+  socket.on('disconnect', function(){
+    console.log('user disconnected');
+  });
 }
 
-var readWaterrower = function() {
-  console.log();
-  // console.log("Stroke Rate ....." + waterrower.readStrokeCount());  // [ - ]
-  // console.log("Total Speed ....." + waterrower.readTotalSpeed());   // [cm/s]
-  // console.log("Average Speed ..." + waterrower.readAverageSpeed()); // [cm/s]
-  // console.log("Distance... ....." + waterrower.readDistance());     // [ m ]
-  console.log("Watts ..........." + waterrower.readWatts());    // [ bpm ]
-  console.log("Heart Rate ......" + waterrower.readHeartRate());    // [ bpm ]
+
+
+// var readWaterrower = function() {
+//  console.log();
+//  console.log("Stroke Rate ....." + waterrower.readStrokeCount());  // [ - ]
+//  console.log("Total Speed ....." + waterrower.readTotalSpeed());   // [cm/s]
+//  console.log("Average Speed ..." + waterrower.readAverageSpeed()); // [cm/s]
+//  console.log("Distance... ....." + waterrower.readDistance());     // [ m ]
+//  console.log("Watts ..........." + waterrower.readWatts());    // [ bpm ]
+//  console.log("Heart Rate ......" + waterrower.readHeartRate());    // [ bpm ]
 
 // no need for that it seems... close occur from clientside
 // io.sockets.once('disconnect', closeConnection);
@@ -38,19 +51,7 @@ var readWaterrower = function() {
 //
 // }
 
-// var readWaterrower = function() {
-//
-//   console.log('sending');
-//
-//   var payload ={
-//     strokeCount : waterrower.readStrokeCount(),
-//     totalSpeed : waterrower.readTotalSpeed(),
-//     averageSpeed : waterrower.readAverageSpeed(),
-//     distance : waterrower.readDistance(),
-//     heartRate : waterrower.readHeartRate()
-//   }
-//   io.broadcast.emit('eWRdata', payload);
 //
 // }
 //
-// setInterval(readWaterrower, 2000);
+//

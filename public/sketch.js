@@ -6,11 +6,20 @@ function setup() {
 
   socket = io.connect('http://localhost:3000');
   // should you send data ? https://www.youtube.com/watch?v=i6eP1Lw4gZk
+
+  socket.on('clac', function(data){
+    println(data);
+  });
+
+
+
 }
 
 function mousePressed(){
-  
+  socket.emit('click', mouseX+" "+mouseY);
 }
+
+
 
 //https://www.youtube.com/watch?v=HZWmrt3Jy10 @ 7.31
 
