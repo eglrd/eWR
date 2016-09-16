@@ -17,13 +17,12 @@ function newConnection(socket){
   console.log('new connection id=' + socket.id);
   console.log('amount of total connections' + io.engine.clientsCount);
 
-  socket.on('click', function(msg){
-    console.log('user clicked : ' + msg);
-    if (io.sockets.connected[socket.id]) {
-    io.sockets.connected[socket.id].emit('clac', 'clac' + socket.id);
-  }
-
-  });
+  // start to emit to inbound socket
+  setInterval(function(){
+      if (io.sockets.connected[socket.id]) {
+          io.sockets.connected[socket.id].emit('clac', 'clac' + socket.id);
+      };
+    }, 1000);
 
 
   socket.on('disconnect', function(){
@@ -41,17 +40,3 @@ function newConnection(socket){
 //  console.log("Distance... ....." + waterrower.readDistance());     // [ m ]
 //  console.log("Watts ..........." + waterrower.readWatts());    // [ bpm ]
 //  console.log("Heart Rate ......" + waterrower.readHeartRate());    // [ bpm ]
-
-// no need for that it seems... close occur from clientside
-// io.sockets.once('disconnect', closeConnection);
-
-// function closeConnection(socket){
-//   socket.close();
-//   console.log('closed connection id=' + socket.id);
-//
-// }
-
-//
-// }
-//
-//
