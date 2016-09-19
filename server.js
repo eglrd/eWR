@@ -38,12 +38,12 @@ function newConnection(socket){
             "logTime": jsonDate,
             "type": 'logItem',
             "logData": {
-            strokeRate: Math.round(Math.random()*30),
-            totalSpeed: Math.round(Math.random()*1.5),
-            averageSpeed: Math.round(Math.random()*2),
-            distance: fakeDistance,
-            watts: Math.round(Math.random()*200),
-            heartRate: Math.round(Math.random()*185)
+            sRate: Math.round(Math.random()*30),    // strokeRate
+            tSpeed: Math.round(Math.random()*1.5),  // totalSpeed
+            aSpeed: Math.round(Math.random()*2),    // averageSpeed
+            d: fakeDistance,                        // distance
+            w: Math.round(Math.random()*200),       // watts
+            hR: Math.round(Math.random()*185)       // Heart Rate
             }
           }
           fakeDistance+=1;
@@ -69,5 +69,5 @@ function newConnection(socket){
 //  console.log("Total Speed ....." + waterrower.readTotalSpeed());   // [cm/s]
 //  console.log("Average Speed ..." + waterrower.readAverageSpeed()); // [cm/s]
 //  console.log("Distance... ....." + waterrower.readDistance());     // [ m ]
-//  console.log("Watts ..........." + waterrower.readWatts());    // [ bpm ]
+//  console.log("Watts ..........." + waterrower.readWatts());    // [ W ]
 //  console.log("Heart Rate ......" + waterrower.readHeartRate());    // [ bpm ]
