@@ -2,6 +2,8 @@
 var waterrower = require("Waterrower");
 var express = require('express');
 var socket = require('socket.io');
+var fs = require('fs');
+
 
 var fakeDistance = 0;
 
@@ -16,32 +18,47 @@ var io = socket(server);
 io.sockets.on('connection', newConnection);
 
 function newConnection(socket){
-  console.log('new connection id=' + socket.id);
+  var collectData = []; // data object collecting data
+  var incomSocketID; // saving socketID to save session data
+
+  if (io.sockets.connected[socket.id]) {
+    console.log('new connection id=' + socket.id);
+    incomSocketID = socket.id;
+  }
   console.log('amount of total connections' + io.engine.clientsCount);
 
   // start to emit to inbound socket
   setInterval(function(){
       if (io.sockets.connected[socket.id]) {
 
+          jsonDate = (new Date()).toJSON();
+
           // faking rower data
           var data ={
+            "logTime": jsonDate,
+            "type": 'logItem',
+            "logData": {
             strokeRate: Math.round(Math.random()*30),
             totalSpeed: Math.round(Math.random()*1.5),
             averageSpeed: Math.round(Math.random()*2),
             distance: fakeDistance,
             watts: Math.round(Math.random()*200),
-            heartRate: Math.round(Math.random()*185),
+            heartRate: Math.round(Math.random()*185)
+            }
           }
-
           fakeDistance+=1;
 
           io.sockets.connected[socket.id].emit('WR', data);
+          collectData.push(data);
       };
     }, 500);
 
 
   socket.on('disconnect', function(){
     console.log('user disconnected');
+    // dump data collected into a JSON file
+    var json = JSON.stringify(collectData);
+    var output = fs.writeFile('tmp/'+incomSocketID+'.json', json, 'utf8'); // need to add callback fct.
   });
 }
 

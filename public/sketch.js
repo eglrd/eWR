@@ -26,17 +26,17 @@ function setup() {
 function draw() {
   background(51);
   if (dataReceived){
-      testText = "SR: " + dataReceived.strokeRate + "\n";
-      testText = testText + "TS: " + dataReceived.totalSpeed + "\n";
-      testText = testText + "AS: " + dataReceived.averageSpeed + "\n";
-      testText = testText + "D: " + dataReceived.distance + "\n";
-      testText = testText + "W: " + dataReceived.watts + "\n";
-      testText = testText + "HR: " + dataReceived.heartRate + "\n";
+      testText = "SR: " + dataReceived.logData.strokeRate + "\n";
+      testText = testText + "TS: " + dataReceived.logData.totalSpeed + "\n";
+      testText = testText + "AS: " + dataReceived.logData.averageSpeed + "\n";
+      testText = testText + "D: " + dataReceived.logData.distance + "\n";
+      testText = testText + "W: " + dataReceived.logData.watts + "\n";
+      testText = testText + "HR: " + dataReceived.logData.heartRate + "\n";
       fill(255);
       text(testText, 10, 10, width-10, height-10);
 
       fill(150);
-      ellipse(width/2, height/2,dataReceived.watts, dataReceived.watts);
+      ellipse(width/2, height/2,dataReceived.logData.watts, dataReceived.logData.watts);
   }
 
 }

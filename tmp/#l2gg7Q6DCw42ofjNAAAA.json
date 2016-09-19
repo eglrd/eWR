@@ -1,0 +1,133 @@
+[{
+    "logTime": "2016-09-19T13:05:19.316Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 11,
+        "totalSpeed": 1,
+        "averageSpeed": 2,
+        "distance": 0,
+        "watts": 121,
+        "heartRate": 68
+    }
+}, {
+    "logTime": "2016-09-19T13:05:19.821Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 3,
+        "totalSpeed": 1,
+        "averageSpeed": 1,
+        "distance": 1,
+        "watts": 39,
+        "heartRate": 99
+    }
+}, {
+    "logTime": "2016-09-19T13:05:20.327Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 17,
+        "totalSpeed": 1,
+        "averageSpeed": 0,
+        "distance": 2,
+        "watts": 91,
+        "heartRate": 112
+    }
+}, {
+    "logTime": "2016-09-19T13:05:20.833Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 9,
+        "totalSpeed": 1,
+        "averageSpeed": 1,
+        "distance": 3,
+        "watts": 191,
+        "heartRate": 15
+    }
+}, {
+    "logTime": "2016-09-19T13:05:21.338Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 6,
+        "totalSpeed": 1,
+        "averageSpeed": 0,
+        "distance": 4,
+        "watts": 198,
+        "heartRate": 155
+    }
+}, {
+    "logTime": "2016-09-19T13:05:21.844Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 28,
+        "totalSpeed": 1,
+        "averageSpeed": 1,
+        "distance": 5,
+        "watts": 65,
+        "heartRate": 112
+    }
+}, {
+    "logTime": "2016-09-19T13:05:22.347Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 2,
+        "totalSpeed": 0,
+        "averageSpeed": 2,
+        "distance": 6,
+        "watts": 40,
+        "heartRate": 27
+    }
+}, {
+    "logTime": "2016-09-19T13:05:22.851Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 15,
+        "totalSpeed": 0,
+        "averageSpeed": 2,
+        "distance": 7,
+        "watts": 191,
+        "heartRate": 105
+    }
+}, {
+    "logTime": "2016-09-19T13:05:23.355Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 18,
+        "totalSpeed": 1,
+        "averageSpeed": 1,
+        "distance": 8,
+        "watts": 20,
+        "heartRate": 90
+    }
+}, {
+    "logTime": "2016-09-19T13:05:23.857Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 20,
+        "totalSpeed": 1,
+        "averageSpeed": 1,
+        "distance": 9,
+        "watts": 108,
+        "heartRate": 143
+    }
+}, {
+    "logTime": "2016-09-19T13:05:24.360Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 6,
+        "totalSpeed": 0,
+        "averageSpeed": 1,
+        "distance": 10,
+        "watts": 158,
+        "heartRate": 85
+    }
+}, {
+    "logTime": "2016-09-19T13:05:24.866Z",
+    "type": "logItem",
+    "logData": {
+        "strokeRate": 25,
+        "totalSpeed": 1,
+        "averageSpeed": 2,
+        "distance": 11,
+        "watts": 20,
+        "heartRate": 56
+    }
+}]
