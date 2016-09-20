@@ -29,7 +29,7 @@ function draw() {
       testText = "Stroke Count: " + dataReceived.logData.sCount + " Strokes\n";
       testText = "Stroke Rate: " + dataReceived.logData.sRate + " S/mn\n";
       testText = testText + "Total Speed: " + dataReceived.logData.tSpeed + " cm/s \n";
-      testText = testText + "Average Speed: " + dataReceived.logData.aSpeed + " cm/? \n";
+      testText = testText + "Average Speed: " + dataReceived.logData.aSpeed + " cm/s \n";
       testText = testText + "Distance: " + dataReceived.logData.d + " m \n";
       testText = testText + "Watts: " + dataReceived.logData.w + " w \n";
       testText = testText + "HR: " + dataReceived.logData.hR + " bpm \n";
