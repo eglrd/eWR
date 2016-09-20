@@ -53,7 +53,8 @@ function newConnection(socket){
             var data = {
                 "logData":{
                     "timestamp": jsonDate,
-                    "type": 'logItem',
+                    // need to figure a way to grab strokestart/stroke end messages...
+                    "type": 'Records',
                     "sRate": waterrower.readStrokeRate(),     //#/mn
                     "sCount": waterrower.readStrokeCount(),   //#
                     "tSpeed": waterrower.readTotalSpeed(),    // cm/s
