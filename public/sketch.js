@@ -26,11 +26,11 @@ function setup() {
 function draw() {
   background(51);
   if (dataReceived){
-      testText = "SR: " + dataReceived.logData.strokeRate + "\n";
-      testText = testText + "TS: " + dataReceived.logData.tSpeed + "\n";
-      testText = testText + "AS: " + dataReceived.logData.aSpeed + "\n";
-      testText = testText + "D: " + dataReceived.logData.d + "\n";
-      testText = testText + "W: " + dataReceived.logData.w + "\n";
+      testText = "Stroke Rate: " + dataReceived.logData.sRate + "\n";
+      testText = testText + "Total Speed: " + dataReceived.logData.tSpeed + "\n";
+      testText = testText + "Average Speed: " + dataReceived.logData.aSpeed + "\n";
+      testText = testText + "Distance: " + dataReceived.logData.d + "\n";
+      testText = testText + "Watts: " + dataReceived.logData.w + "\n";
       testText = testText + "HR: " + dataReceived.logData.hR + "\n";
 
       noStroke();

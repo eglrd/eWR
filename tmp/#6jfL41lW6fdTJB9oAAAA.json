@@ -1,0 +1,2278 @@
+[{
+    "logData": {
+        "timestamp": "2016-09-19T19:47:33.693Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:34.202Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:34.704Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:35.207Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:35.709Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:36.210Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:36.715Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:37.216Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:37.716Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:38.216Z",
+        "type": "logItem",
+        "sRate": 0,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:38.718Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:39.220Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:39.721Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:40.222Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 0,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:40.724Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 0,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:41.226Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:41.730Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:42.232Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:42.734Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:43.237Z",
+        "type": "logItem",
+        "sRate": 3,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:43.738Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:44.241Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 105,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:44.741Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 105,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:45.243Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:45.746Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 5,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:46.247Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:46.750Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:47.253Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:47.754Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:48.256Z",
+        "type": "logItem",
+        "sRate": 8,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:48.760Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:49.265Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:49.768Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 132,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:50.270Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 13,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:50.770Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:51.272Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:51.773Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:52.273Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:52.774Z",
+        "type": "logItem",
+        "sRate": 12,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:53.278Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:53.780Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 35,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:54.283Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 150,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:54.785Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:55.290Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 22,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:55.793Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:56.297Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 40,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:56.797Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:57.297Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:57.798Z",
+        "type": "logItem",
+        "sRate": 16,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:58.300Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 0,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:58.801Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:59.301Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 155,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:47:59.802Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:00.303Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 30,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:00.806Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:01.307Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:01.810Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:02.313Z",
+        "type": "logItem",
+        "sRate": 20,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:02.813Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:03.315Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:03.819Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:04.320Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 161,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:04.823Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 39,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:05.323Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:05.823Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:06.326Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:06.829Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:07.330Z",
+        "type": "logItem",
+        "sRate": 23,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:07.833Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:08.338Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:08.845Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 167,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:09.347Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:09.847Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 50,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:10.349Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:10.852Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:11.355Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:11.857Z",
+        "type": "logItem",
+        "sRate": 26,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:12.359Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:12.862Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 140,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:13.363Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:13.866Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 185,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:14.368Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 63,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:14.869Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:15.371Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:15.875Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:16.377Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:16.880Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:17.380Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:17.883Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:18.385Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:18.887Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:19.392Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 74,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:19.897Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:20.399Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:20.900Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:21.402Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:21.904Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:22.407Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:22.909Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:23.414Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 204,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:23.916Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 80,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:24.418Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:24.922Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:25.422Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:25.922Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:26.426Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:26.926Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:27.427Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 70,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:27.929Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 188,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:28.435Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:28.938Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:29.444Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:29.945Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:30.447Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:30.953Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:31.458Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:31.965Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:32.468Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:32.970Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 173,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:33.477Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 83,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:33.980Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:34.480Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:34.982Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:35.486Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:35.989Z",
+        "type": "logItem",
+        "sRate": 29,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:36.489Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:36.996Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 0,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:37.499Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 0,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:38.001Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:38.506Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 84,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:39.009Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:39.511Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:40.015Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:40.517Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:41.019Z",
+        "type": "logItem",
+        "sRate": 31,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:41.522Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 70,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:42.024Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:42.526Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 70,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:43.027Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:43.529Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 94,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:44.029Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:44.529Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:45.031Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:45.534Z",
+        "type": "logItem",
+        "sRate": 35,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:46.036Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:46.536Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 35,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:47.037Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:47.540Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 118,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:48.041Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 107,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:48.542Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:49.044Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:49.545Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:50.047Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:50.548Z",
+        "type": "logItem",
+        "sRate": 38,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:51.050Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:51.550Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 245,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:52.050Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 151,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:52.550Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:53.052Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 119,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:53.555Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 36,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:54.058Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:54.560Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:55.062Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:55.565Z",
+        "type": "logItem",
+        "sRate": 41,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:56.067Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:56.571Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:57.073Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 169,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:57.574Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 131,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:58.075Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:58.574Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:59.074Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:48:59.576Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:00.078Z",
+        "type": "logItem",
+        "sRate": 45,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:00.582Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:01.083Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 175,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:01.584Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 190,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:02.085Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:02.587Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 146,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:03.089Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:03.591Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 66,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:04.094Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:04.596Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:05.098Z",
+        "type": "logItem",
+        "sRate": 48,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:05.600Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 105,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:06.101Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:06.601Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 232,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:07.104Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:07.606Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 161,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:08.108Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 54,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:08.610Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:09.114Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:09.617Z",
+        "type": "logItem",
+        "sRate": 52,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:10.122Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:10.625Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 35,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:11.127Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:11.627Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 271,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:12.130Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 284,
+        "d": 175,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:12.633Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:13.134Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 68,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:13.639Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:14.141Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:14.643Z",
+        "type": "logItem",
+        "sRate": 56,
+        "tSpeed": 315,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:15.145Z",
+        "type": "logItem",
+        "sRate": 57,
+        "tSpeed": 315,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:15.646Z",
+        "type": "logItem",
+        "sRate": 57,
+        "tSpeed": 140,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:16.150Z",
+        "type": "logItem",
+        "sRate": 57,
+        "tSpeed": 140,
+        "aSpeed": 284,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:16.651Z",
+        "type": "logItem",
+        "sRate": 57,
+        "tSpeed": 140,
+        "aSpeed": 275,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}, {
+    "logData": {
+        "timestamp": "2016-09-19T19:49:17.153Z",
+        "type": "logItem",
+        "sRate": 57,
+        "tSpeed": 140,
+        "aSpeed": 275,
+        "d": 190,
+        "w": 0,
+        "hR": 0
+    }
+}]

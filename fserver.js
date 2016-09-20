@@ -5,7 +5,7 @@ var socket = require('socket.io');
 var fs = require('fs');
 
 
-// var fakeDistance = 0;
+var fakeDistance = 0;
 
 // start webserver and set default directory
 var app = express();
@@ -34,38 +34,38 @@ function newConnection(socket){
           jsonDate = (new Date()).toJSON();
 
           // faking rower data
-          // var data ={
-          //   "logTime": jsonDate,
-          //   "type": 'logItem',
-          //   "logData": {
-          //   sRate: Math.round(Math.random()*30),    // strokeRate
-          //   tSpeed: Math.round(Math.random()*1.5),  // totalSpeed
-          //   aSpeed: Math.round(Math.random()*2),    // averageSpeed
-          //   d: fakeDistance,                        // distance
-          //   w: Math.round(Math.random()*200),       // watts
-          //   hR: Math.round(Math.random()*185)       // Heart Rate
-          //   }
-          // }
-          // fakeDistance+=1;
+          var data ={
+            "logTime": jsonDate,
+            "type": 'logItem',
+            "logData": {
+            sRate: Math.round(Math.random()*30),    // strokeRate
+            tSpeed: Math.round(Math.random()*1.5),  // totalSpeed
+            aSpeed: Math.round(Math.random()*2),    // averageSpeed
+            d: fakeDistance,                        // distance
+            w: Math.round(Math.random()*200),       // watts
+            hR: Math.round(Math.random()*185)       // Heart Rate
+            }
+          }
+          fakeDistance+=1;
 
           // begin ---- actual rowing data capture
-          if(waterrower){
-            var data = {
-                "logData":{
-                    "timestamp": jsonDate,
-                    "type": 'logItem',
-                    "sRate": waterrower.readStrokeCount(),    //#
-                    "tSpeed": waterrower.readTotalSpeed(),    // cm/s
-                    "aSpeed": waterrower.readAverageSpeed(),  // cm/s
-                    "d": waterrower.readDistance(),           // m
-                    "w": waterrower.readWatts(),              // W
-                    "hR": waterrower.readHeartRate()          //bpm
-                }
-            }
-
-            io.sockets.connected[socket.id].emit('WR', data);
-            collectData.push(data);
-          };
+          // if(waterrower){
+          //   var data = {
+          //       "logData":{
+          //           "timestamp": jsonDate,
+          //           "type": 'logItem',
+          //           "sRate": waterrower.readStrokeCount(),    //#
+          //           "tSpeed": waterrower.readTotalSpeed(),    // cm/s
+          //           "aSpeed": waterrower.readAverageSpeed(),  // cm/s
+          //           "d": waterrower.readDistance(),           // m
+          //           "w": waterrower.readWatts(),              // W
+          //           "hR": waterrower.readHeartRate()          //bpm
+          //       }
+          //   }
+          //
+          //   io.sockets.connected[socket.id].emit('WR', data);
+          //   collectData.push(data);
+          // };
           // end ---- actual rowing data capture
       };
     }, 1000);
