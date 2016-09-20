@@ -54,7 +54,8 @@ function newConnection(socket){
                 "logData":{
                     "timestamp": jsonDate,
                     "type": 'logItem',
-                    "sRate": waterrower.readStrokeCount(),    //#
+                    "sRate": waterrower.readStrokeRate(),     //#/mn
+                    "sCount": waterrower.readStrokeCount(),   //#
                     "tSpeed": waterrower.readTotalSpeed(),    // cm/s
                     "aSpeed": waterrower.readAverageSpeed(),  // cm/s
                     "d": waterrower.readDistance(),           // m
