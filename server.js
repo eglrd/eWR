@@ -1,4 +1,4 @@
-// this is a node.js based webserver (or webservice ?) experimenting with waterrower interfacing via sockets..
+// this is a node.js based webserver (or webservice ?) experimenting with waterrower interfacing a web browesr via sockets..
 var waterrower = require("Waterrower");
 var express = require('express');
 var socket = require('socket.io');
