@@ -8,11 +8,9 @@ function setup() {
   // should you send data ? https://www.youtube.com/watch?v=i6eP1Lw4gZk
 
   socket.on('WR', function(data){
-
     dataReceived=data;
-    //println(floor(data.strokeRate));
-
   });
+
 }
 
 
