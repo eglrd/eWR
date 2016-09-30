@@ -126,11 +126,14 @@ port.on('open', function() {
                         port.write('IRD088' + '\r\n');
 
                         if(io) {
-                          io.sockets.connected[socketId].emit('S', 'S');
+                          // emit Stroke Start over passed socket
+                          io.sockets.connected[socketId].emit('ST', 'ST');
                           console.log("WR io : event emitted");
                         }
                         break;
                     case 'E': // Stroke END
+                        // emit Stroke End over passed socket
+                        io.sockets.connected[socketId].emit('ST', 'EN');
                         break;
                     default:
                         //ignore

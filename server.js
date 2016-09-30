@@ -28,8 +28,9 @@ function newConnection(socket) {
     if (io.sockets.connected[socket.id]) {
         console.log('new connection id=' + socket.id);
         //incomSocketID = socket.id;
+        //passing SocketID to allow messaging of Stroke Start/Stroke end event
         waterrower.putSocketid(io, socket.id);
-        console.log("server io:" + io);
+        //console.log("server io:" + io);
     }
     console.log('amount of total connections' + io.engine.clientsCount);
 

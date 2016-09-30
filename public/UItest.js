@@ -3,8 +3,8 @@ var strokeEnd = false;
 
 var i; // catch arc iteration
 var j; // recovery arc iteration
-var k; // pacer value
-var rate = 3;
+var k; // pacer arc iteration
+var rate = 3; // pacer re-evaluating variables
 
 function setup() {
     createCanvas(320, 240);
