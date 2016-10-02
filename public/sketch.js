@@ -14,7 +14,7 @@ var rate = 3; // pacer re-evaluating variables
 
 
 function setup() {
-    createCanvas(320, 240);
+    createCanvas(640, 480);
 
     socket = io.connect('http://localhost:3000');
     // should you send data ? https://www.youtube.com/watch?v=i6eP1Lw4gZk
@@ -51,7 +51,7 @@ function draw() {
     // clean canvas
     frameRate(30);
     background(58);
-
+    fill(40);
     // --------------- VIEW : data dump + watts ellipse
     if (dataReceived) {
         testText = "Stroke Count: " + dataReceived.totalStroke + " Strokes\n";
@@ -73,7 +73,7 @@ function draw() {
 
     // --------------- VIEW : pacing arcs
     // show variables
-    fill(255, 102, 153);
+    fill(80);
     textAlign(LEFT, BASELINE);
     textSize(20);
     noStroke();

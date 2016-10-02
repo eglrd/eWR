@@ -133,7 +133,7 @@ port.on('open', function() {
                         break;
                     case 'E': // Stroke END
                         // emit Stroke End over passed socket
-                        io.sockets.connected[socketId].emit('ST', 'EN');
+                        io.sockets.connected[socketId].emit('ST', 'SE');
                         break;
                     default:
                         //ignore
