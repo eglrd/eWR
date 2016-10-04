@@ -90,6 +90,7 @@ function draw() {
     // line(0, -5, 0, 5);
 
     // setting up for stroke display
+    noFill();
     strokeWeight(10);
     rotate(toRadians(-90));
 
