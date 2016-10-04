@@ -83,11 +83,11 @@ function draw() {
     translate(width / 2, height / 2);
 
     // materializing center
-    noFill();
-    stroke(0);
-    strokeWeight(1);
-    line(-5, 0, 5, 0);
-    line(0, -5, 0, 5);
+    // noFill();
+    // stroke(0);
+    // strokeWeight(1);
+    // line(-5, 0, 5, 0);
+    // line(0, -5, 0, 5);
 
     // setting up for stroke display
     strokeWeight(10);
@@ -116,7 +116,7 @@ function draw() {
 
         // visual projecting recovery phase (arc+line)
         strokeWeight(2);
-        stroke(0, 0, 255);
+        stroke(200);
         k = i * 3;
         arc(0, 0, 200, 200, toRadians(i - rate), toRadians(k), CENTER);
         rotate(toRadians(k - 90));
@@ -133,7 +133,7 @@ function draw() {
             if (j >= k) {
                 strokeEnd = false;
                 if (k > 360) {
-                    rate = rate * 360 / k; // need to check for truth
+                    rate = rate * (360 / k) * .8; // need to check for truth
                     println("rev rate down @ " + rate)
                 } else if (k < 240) {
                     rate = rate * (360 / k) * .8; // need to check for truth

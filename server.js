@@ -77,10 +77,11 @@ function newConnection(socket) {
     }, 1000);
 
     socket.on('disconnect', function(){
+      id= incomSocketID; // first backup ID before it gets destroyed
       console.log('user disconnected');
       // dump data collected into a JSON file
-      var json = JSON.stringify(collectData);
-      var output = fs.writeFile('tmp/'+incomSocketID+'.json', json, 'utf8'); // need to add callback fct.
+      var json = JSON.stringify(collectData); // dump all payload
+      var output = fs.writeFile('tmp/'+id+'.json', json, 'utf8'); // need to add callback fct.
       console.log("data backuped ")
     });
   }
