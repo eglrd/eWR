@@ -27,7 +27,7 @@ function newConnection(socket) {
 
     if (io.sockets.connected[socket.id]) {
         console.log('new connection id=' + socket.id);
-        //incomSocketID = socket.id;
+        incomSocketID = socket.id;
         //passing SocketID to allow messaging of Stroke Start/Stroke end event
         waterrower.putSocketid(io, socket.id);
         //console.log("server io:" + io);
@@ -77,11 +77,10 @@ function newConnection(socket) {
     }, 1000);
 
     socket.on('disconnect', function(){
-      id= incomSocketID; // first backup ID before it gets destroyed
       console.log('user disconnected');
       // dump data collected into a JSON file
       var json = JSON.stringify(collectData); // dump all payload
-      var output = fs.writeFile('tmp/'+id+'.json', json, 'utf8'); // need to add callback fct.
+      var output = fs.writeFile('tmp/'+incomSocketID+'.json', json, 'utf8'); // need to add callback fct.
       console.log("data backuped ")
     });
   }
