@@ -153,19 +153,19 @@ function draw() {
 
 // keypress controlers here, kept just for debugging purposes
 // should be plugged to waterrower SStart and SEnd
-function keyTyped() {
-    if (key === 's') {
-        if (strokeEnd) {
-            i = 0;
-        }
-        strokeStart = true;
-        strokeEnd = false;
-    } else if (key === 'e') {
-        strokeEnd = true;
-        strokeStart = false;
-    }
-    //return false;
-}
+// function keyTyped() {
+//     if (key === 's') {
+//         if (strokeEnd) {
+//             i = 0;
+//         }
+//         strokeStart = true;
+//         strokeEnd = false;
+//     } else if (key === 'e') {
+//         strokeEnd = true;
+//         strokeStart = false;
+//     }
+//     //return false;
+// }
 
 
 
