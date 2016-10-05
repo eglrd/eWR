@@ -137,7 +137,7 @@ function draw() {
                     rate = rate * (360 / k) * .8; // need to check for truth
                     println("rev rate down @ " + rate)
                 } else if (k < 240) {
-                    rate = rate * (360 / k) * .8; // need to check for truth
+                    rate = rate * (360 / k) * .7; // need to check for truth
                     println("rev rate up @ " + rate)
                 } else {
                     println("rate ok @ " + rate);

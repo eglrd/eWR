@@ -82,5 +82,6 @@ function newConnection(socket) {
       var json = JSON.stringify(collectData); // dump all payload
       var output = fs.writeFile('tmp/'+incomSocketID+'.json', json, 'utf8'); // need to add callback fct.
       console.log("data backuped ")
+      delete incomSocketID;
     });
   }
